@@ -1,12 +1,12 @@
 # PersonalRecipes
-This website is a simple way to display all your personal recipes!
+This website is designed to display all your personal recipes with just a few clicks!
 
 ### Demo
 All the recipes in the demo can be found online(https://www.foodnetwork.com/recipes), and the links for the images are in ExampleData.js.
 
 ![Alt Text](https://im7.ezgif.com/tmp/ezgif-7-ebb63971630d.gif)
 
-### Get Started 
+### Getting Started 
 1. Write down all your recipes in a file, and export it to as a .csv file.
 
 __Please follow the following format:__ 
@@ -19,4 +19,13 @@ __Please follow the following format:__
 Example: 
 ![Alt Text](https://i.ibb.co/z63fMsQ/Screen-Shot-2020-09-20-at-4-01-56-PM.png)
 
-Refer to the ExampleData.csv for a more detailed example. 
+Refer to ExampleData.csv for a more detailed example. 
+
+2. Copy paste everything in your csv file to the PersonalRecipesData.js
+
+Example: 
+![Alt Text](https://im5.ezgif.com/tmp/ezgif-5-998d3f6eac57.gif)
+
+3. Open up PersonalRecipesData.html. 
+
+## Enjoy! 
