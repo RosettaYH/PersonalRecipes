@@ -1,0 +1,89 @@
+body{
+	font-family: 'Cormorant Garamond', serif;
+}
+h1{
+	font-family: 'Archivo', sans-serif;
+}
+hr{
+	width: 50rem;
+}
+img:hover{
+	opacity: 0.75;
+}
+#recipesHeader{
+    text-align: center;
+}
+
+#mainNavbar .navbar-brand {
+    font-size: 1.5rem;
+}
+#mainNavbar .navbar-brand:hover{
+	color: rgba(255,255,255,.5);
+}
+#mainNavbar .nav-link{
+	color: white;
+}
+#mainNavbar .nav-link:hover{
+	color: rgba(255,255,255,.5);
+}
+.navbar.scrolled{
+	background-color: #bf6560;
+	transition: background 500ms;
+}
+
+.jumbotron{
+	background-image: url("https://images.unsplash.com/photo-1490818387583-1baba5e638af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1262&q=80");
+	background-size: cover;
+	background-position: 100% 25%;
+	padding-top: 100px;
+}
+
+.card{
+	width: 18rem;
+	height: 500px;
+	box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+}
+#recipes .card{
+	width: 30rem;
+	height: auto;
+}
+#calendar .card{
+	height: auto;
+	min-height: 300px;
+}
+.card-img-top{
+	height: 61.8%;
+	object-fit: cover;
+}
+.card-header{
+	background-color: #eaf0f2;
+}
+.card-header:hover {
+	background-color: #bf6560;
+	color: white;
+}
+
+
+
+
+.btn{
+	color: white;
+}
+.fa-plus{
+	line-height: 2.0rem;
+	color: #bf6560;
+}
+.fa-minus{
+	line-height: 1.5rem;
+	color: white;
+}
+#calendar .addButton{
+	background-color: #bf6560;
+	border-radius: 0px;
+}
+#calendar .item{
+	background-color: #bf6560;
+	border-radius: 30px;
+}
+
+
