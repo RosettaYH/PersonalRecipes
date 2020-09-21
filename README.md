@@ -4,7 +4,7 @@ This website is designed to display all your personal recipes with just a few cl
 ### Demo
 All the recipes in the demo can be found online(https://www.foodnetwork.com/recipes), and the links for the images are in ExampleData.js.
 
-![Alt Text](https://im5.ezgif.com/tmp/ezgif-5-705deb9dd29a.gif)
+![Alt Text](https://i.ibb.co/LYp99vh/ezgif-4-edf42a80856b.gif)
 
 ### Getting Started 
 1. Write down all your recipes in a file, and export it to as a .csv file.
