@@ -50,9 +50,9 @@ $("#randomButton").on("click", function() {
 $("#calendarButton").on("click", function() {
 	// Display the calendar page when calendar button clicked
 
-	// Empty the calender page
-	if (!$("#calenderPage").is(":empty")) {
-		$("#calenderPage").html("");
+	// Empty the calendar page
+	if (!$("#calendarPage").is(":empty")) {
+		$("#calendarPage").html("");
 		$("#monthHeader").html("");
 	}
 
@@ -262,7 +262,7 @@ function showCard(food, isRandom, isSearch) {
 }
 
 function showCalendar() {
-	// Display the calender page for the week
+	// Display the calendar page for the week
 	var today = new Date(); // Get today's date
 	var month = today.getMonth() + 1;
 	var day = today.getDay();
@@ -377,7 +377,7 @@ function showCalendar() {
 		plus.appendChild(inputAppend);
 		inputAppend.appendChild(inputButton);
 
-		document.getElementById("calenderPage").appendChild(contain);
+		document.getElementById("calendarPage").appendChild(contain);
 	}
 }
 
