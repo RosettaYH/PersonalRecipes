@@ -17,14 +17,14 @@ __Please follow the following format:__
 - Make sure there are no extra spaces
 - For image links, please use the image addresses(not urls)
 
-Example: 
+> Example: 
 ![Alt Text](https://i.ibb.co/z63fMsQ/Screen-Shot-2020-09-20-at-4-01-56-PM.png)
 
 Refer to ExampleData.csv for a more detailed example. 
 
 2. Copy paste everything in your csv file to the PersonalRecipesData.js
 
-Example: 
+> Example: 
 ![Alt Text](https://im5.ezgif.com/tmp/ezgif-5-998d3f6eac57.gif)
 
 3. Open up PersonalRecipesData.html. 
