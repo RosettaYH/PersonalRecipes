@@ -25,6 +25,7 @@ Refer to ExampleData.csv for a more detailed example.
 2. Copy paste everything in your csv file to the PersonalRecipesData.js
 
 > Example: 
+
 ![Alt Text](https://im5.ezgif.com/tmp/ezgif-5-998d3f6eac57.gif)
 
 3. Open up PersonalRecipesData.html. 
