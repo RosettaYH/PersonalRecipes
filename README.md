@@ -27,7 +27,7 @@ Refer to ExampleData.csv for a more detailed example.
 
 > Example: 
 
-![Alt Text](https://im5.ezgif.com/tmp/ezgif-5-998d3f6eac57.gif)
+![Alt Text](https://i.ibb.co/BLVk8Sr/a.gif)
 
 3. Open up PersonalRecipesData.html. 
 
