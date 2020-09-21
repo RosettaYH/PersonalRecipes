@@ -15,6 +15,7 @@ __Please follow the following format:__
 - For all ingredients and directions, add ";" at the end of each row.
   - Ex: "water; milk; lemon;"
 - Make sure there are no extra spaces
+- For image links, please use the image addresses(not urls)
 
 Example: 
 ![Alt Text](https://i.ibb.co/z63fMsQ/Screen-Shot-2020-09-20-at-4-01-56-PM.png)
