@@ -6,6 +6,8 @@ All the recipes in the demo can be found online(https://www.foodnetwork.com/reci
 
 ![Alt Text](https://i.ibb.co/Qn4rpr9/z.gif)
 
+For a more detailed description, [click here](https://youtu.be/9g7yNdEr5MM).
+
 ### Getting Started 
 1. Write down all your recipes in a file, and export it to as a .csv file.
 
